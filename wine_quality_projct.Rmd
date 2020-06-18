@@ -14,7 +14,7 @@ fontsize: 12pt
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE, comment = '', fig.height = 4, fig.width = 5.6)
 ```
-`r knitr:: spin_child("wine_final.r")`
+`r knitr:: spin_child("wine_quality_project.r")`
 
 \newpage
 
